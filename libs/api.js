@@ -40,7 +40,6 @@ export async function getAllPosts(limit = 100) {
         limit: limit,
       },
     })
-    console.log(posts)
     return posts.contents
   } catch (err) {
     console.log('~~ getAllPosts ~~')

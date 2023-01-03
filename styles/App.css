@@ -1,0 +1,47 @@
+body{
+  background:#1B2524;
+  margin:10% 20%;
+ color:#B8F044;
+ font-family: "Nico Moji";
+
+}
+h1 {
+  text-align: center;
+  border-bottom:1px solid #E7EDE8;
+}
+input {
+  border-radius:6px;
+  padding:8px;
+}
+button{
+  border-radius:6px;
+  font-size:90%;
+  background:#C92933;
+  font-weight:bold;
+  margin:5px; 
+  padding:5px;
+}
+form{
+  margin:10px;
+}
+.App {
+  text-align: center;
+  background:#1B2524;
+}
+h2{
+  color:#C92933;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.border {
+  border:1px solid #eeffcb;
+  padding:3%;
+}
+.weatherBox{
+  border:1px solid #eeffcb;
+  padding:3%;
+  width:80%;
+  margin:0 auto;
+}

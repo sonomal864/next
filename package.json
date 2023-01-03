@@ -10,10 +10,14 @@
   },
   "dependencies": {
     "@next/font": "13.1.1",
+    "html-react-parser": "^3.0.6",
     "isomorphic-unfetch": "^4.0.2",
+    "markdown-to-jsx": "^7.1.8",
     "microcms-js-sdk": "^2.3.2",
     "next": "13.1.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.4",
+    "remark-gfm": "^3.0.1"
   }
 }
